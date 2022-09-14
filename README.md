@@ -1,5 +1,5 @@
-# music-industry-analysis
-An analysis of the Music Industry through Spotify charts data and using distributed concepts in Spark
+# Music Industry Analysis
+An analysis of the Music Industry using Spotify charts data and leveraging distributed concepts in Spark
 
 ## About Project
 In this project I have explored the top charts of Spotify across various regions around the world and try to glean some insights into the Music industry by performing distributed operations on the charts dataset.
